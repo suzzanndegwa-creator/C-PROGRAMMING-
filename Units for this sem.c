@@ -19,4 +19,6 @@ printf("Communication skills\n");
 printf("Analogue electronics\n");
 
 return 0;
+}
+
 
