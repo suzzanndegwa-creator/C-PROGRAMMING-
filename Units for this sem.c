@@ -8,7 +8,7 @@ Description:units taken
 
 #include<stdio.h>
 //main function
-int main(){
+int main() {
 printf("Mathematics for science\n");
 printf("Physics\n");
 printf("Computer architecture\n");
@@ -20,5 +20,6 @@ printf("Analogue electronics\n");
 
 return 0;
 }
+
 
 
