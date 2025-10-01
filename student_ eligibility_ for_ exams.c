@@ -16,13 +16,15 @@ int main(){
    scanf("%d",&average_marks);
 
    //check eligibility
-   if(attendance >=75&average_marks>=40){
-   printf("you are eligible.");}
+   if(attendance >=75&average_marks>=40) {
+   printf("you are eligible."); 
+   }
 
-    else{ printf("Not eligible.");
+    else {
+       printf("Not eligible.");
     }
 
   return 0;
 
-
 }
+
