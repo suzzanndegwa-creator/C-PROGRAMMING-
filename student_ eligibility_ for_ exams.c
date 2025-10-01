@@ -9,14 +9,14 @@ int main(){
 
    int attendance,average_marks;
 
-   printf("Enter your attendance:");
+   printf("Enter your attendance:\n");
    scanf("%d",&attendance);
 
-   printf("Enter your average_marks:");
+   printf("Enter your average marks:\n");
    scanf("%d",&average_marks);
 
    //check eligibility
-   if(attendance >=75 & average_marks>=40) {
+   if (attendance >=75 & average_marks>=40) {
    printf("you are eligible."); 
    }
 
@@ -27,6 +27,7 @@ int main(){
   return 0;
 
 }
+
 
 
 
