@@ -4,7 +4,7 @@ Name:Ndegwa Susan
 Reg No:CT101/G/26435/25
 Description:Student eligibility for exams
 */
-
+#include<stdio.h>
 int main(){
 
    int attendance,average_marks;
@@ -27,5 +27,6 @@ int main(){
   return 0;
 
 }
+
 
 
