@@ -16,7 +16,7 @@ int main(){
    scanf("%d",&average_marks);
 
    //check eligibility
-   if(attendance >=75&average_marks>=40) {
+   if(attendance >=75 & average_marks>=40) {
    printf("you are eligible."); 
    }
 
@@ -27,4 +27,5 @@ int main(){
   return 0;
 
 }
+
 
