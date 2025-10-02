@@ -7,7 +7,6 @@ Description:program displaying mobile data bundles and their cost
 #include <stdio.h>
 
 int main() {
-    // Declare the variable to store user's choice
     int choice;
 
     // Display internet bundle choices
@@ -41,3 +40,4 @@ int main() {
 
     return 0;
 }
+
