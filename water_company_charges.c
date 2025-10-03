@@ -8,7 +8,7 @@ Description:Water company charges
 #include<stdio.h>
   int main(){
   // main function
-    int water_units_used,Total_bill;
+    int water_units_used,float Total_bill;
 //Propmts for the user to input
    printf("Enter water units used:\n");
    scanf("%d",&water_units_used);
@@ -28,9 +28,10 @@ Description:Water company charges
    Total_bill =water_units_used * 30;
    }
    printf("Enter the Total bill:\n");
-   printf("%.2fd",Total_bill);
+   printf("%.2f",Total_bill);
    return 0;
    }
+
 
 
 
