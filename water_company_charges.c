@@ -28,9 +28,10 @@ Description:Water company charges
    Total_bill =water_units_used * 30;
    }
    printf("Enter the Total bill:\n");
-   printf("%d",Total_bill);
+   printf("%2d",Total_bill);
    return 0;
    }
+
 
 
 
