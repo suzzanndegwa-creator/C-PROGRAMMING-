@@ -7,9 +7,9 @@ Description:A program for assigning and tracking the rooms occupied and number o
 
 
 
-#include <stdio.h>
 #include<stdio.h>
-#include<stdio.h>
+#include<stdlib.h>
+#include<time.h>
 
 int main() {
     int occupancy[5][10];
